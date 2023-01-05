@@ -1,0 +1,22 @@
+header
+    {
+        /* Style the header so that is takes up 100% of the viewport height. */
+        height: 100vh;
+    }
+
+.header .image
+    {
+        /* Style the image to take up 100% width and height of the header. */
+        height: 100%;
+        width: 100%;
+       
+
+    }
+
+.containers
+    {
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        /* text-align: center; */
+    }
